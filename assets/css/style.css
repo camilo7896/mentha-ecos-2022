@@ -86,7 +86,7 @@ body {
 }
 
 a {
-    color: #2a6f0f;
+    color: #014852;
     -webkit-transition: all .25s ease-in-out;
     -moz-transition: all .25s ease-in-out;
     -ms-transition: all .25s ease-in-out;
@@ -437,7 +437,7 @@ p {
 }
 
 #loading-animation {
-    background-image: url("../images/loading.GIF");
+    background-image: url("https://tenor.com/tmJX.gif");
     opacity: 0.7;
     background-position: center center;
     background-repeat: no-repeat;
@@ -489,12 +489,13 @@ p {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     background: transparent;
-    color: #2a6f0f;
+    color: #064563;
+    text-shadow: 1px 1px 0px #b1018b;
 }
 
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
-    color: #2a6f0f;
+    color: #004357;
 }
 
 .dropdown-menu {
@@ -3099,7 +3100,7 @@ ul.download li a img {
     margin-top: 25px;
 }
 
-.about-me {
+logoimg .about-me {
     padding: 11% 9% 0;
 }
 
